@@ -1,1 +1,4 @@
 Kiem tra cach push file len github.
+Da push len duoc.
+
+Kiem tra push sau khi chinh sua.
