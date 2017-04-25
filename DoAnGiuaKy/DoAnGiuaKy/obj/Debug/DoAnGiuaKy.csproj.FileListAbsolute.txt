@@ -80,3 +80,7 @@ C:\Users\STAMAH\Desktop\DeadlineHangTuan\Web2\DoAnGiuaKy\DoAnGiuaKy\bin\Microsof
 C:\Users\STAMAH\Desktop\DeadlineHangTuan\Web2\DoAnGiuaKy\DoAnGiuaKy\obj\Debug\DoAnGiuaKy.csprojResolveAssemblyReference.cache
 C:\Users\STAMAH\Desktop\DeadlineHangTuan\Web2\DoAnGiuaKy\DoAnGiuaKy\obj\Debug\DoAnGiuaKy.dll
 C:\Users\STAMAH\Desktop\DeadlineHangTuan\Web2\DoAnGiuaKy\DoAnGiuaKy\obj\Debug\DoAnGiuaKy.pdb
+C:\Users\STAMAH\Desktop\DeadlineHangTuan\Web2\DoAnGiuaKy\DoAnGiuaKy\bin\PagedList.dll
+C:\Users\STAMAH\Desktop\DeadlineHangTuan\Web2\DoAnGiuaKy\DoAnGiuaKy\bin\PagedList.Mvc.dll
+C:\Users\STAMAH\Desktop\DeadlineHangTuan\Web2\DoAnGiuaKy\DoAnGiuaKy\bin\PagedList.xml
+C:\Users\STAMAH\Desktop\DeadlineHangTuan\Web2\DoAnGiuaKy\DoAnGiuaKy\bin\PagedList.Mvc.xml
