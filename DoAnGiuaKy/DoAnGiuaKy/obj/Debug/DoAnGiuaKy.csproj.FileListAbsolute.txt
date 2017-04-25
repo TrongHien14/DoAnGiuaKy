@@ -77,7 +77,6 @@ C:\Users\STAMAH\Desktop\DeadlineHangTuan\Web2\DoAnGiuaKy\DoAnGiuaKy\bin\Microsof
 C:\Users\STAMAH\Desktop\DeadlineHangTuan\Web2\DoAnGiuaKy\DoAnGiuaKy\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\STAMAH\Desktop\DeadlineHangTuan\Web2\DoAnGiuaKy\DoAnGiuaKy\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\STAMAH\Desktop\DeadlineHangTuan\Web2\DoAnGiuaKy\DoAnGiuaKy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\STAMAH\Desktop\DeadlineHangTuan\Web2\DoAnGiuaKy\DoAnGiuaKy\obj\Debug\DoAnGiuaKy.csprojResolveAssemblyReference.cache
 C:\Users\STAMAH\Desktop\DeadlineHangTuan\Web2\DoAnGiuaKy\DoAnGiuaKy\obj\Debug\DoAnGiuaKy.dll
 C:\Users\STAMAH\Desktop\DeadlineHangTuan\Web2\DoAnGiuaKy\DoAnGiuaKy\obj\Debug\DoAnGiuaKy.pdb
 C:\Users\STAMAH\Desktop\DeadlineHangTuan\Web2\DoAnGiuaKy\DoAnGiuaKy\bin\PagedList.dll
